@@ -13,6 +13,6 @@
 
 var fruits = ["apple", "banana", "pear", "tomato"];
 
-for (var i = 0; i < fruits.length; i--) {
+for (var i = 0; i < fruits.length; i++) {
   console.log(fruits[i]);
 }
